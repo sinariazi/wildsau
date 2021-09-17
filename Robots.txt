@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: 
-
-Sitemap: http://wildsau2020.s3-website.eu-central-1.amazonaws.com/sitemap.xml
